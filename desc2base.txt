@@ -1,0 +1,13 @@
+The Base-2 form of 255 is: 11111111
+The Base-16 form of 65535 is: FFFF
+The Base-2 form of 2147483647 is: 1111111111111111111111111111111
+The Base-5 form of 33975 is: 2041400
+The Base-9 form of 760976 is: 1378768
+The Base-10 form of 67878903 is: 67878903
+The Base-33 form of 86 is: 2K
+The Base-3 form of 100100100 is: 20222100121112010
+The Base-35 form of 2147483647 is: 15V22UM 
+The Base-8 form of 17 is: 21 
+ 
+
+ 
